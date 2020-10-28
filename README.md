@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://i.imgur.com/NfKG1UU.png" width="300">
+    <img src="https://i.imgur.com/NfKG1UU.png" width="500">
 </h1>
 
 ---
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. :closed_lock_with_key:
+Esse projeto está sob a [licença MIT](https://github.com/Juliolatorre/instagram_login/blob/master/LICENSE). :closed_lock_with_key:
 
 ---
 
