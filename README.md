@@ -16,7 +16,7 @@
 
 **Recriando a página inicial do Instagram** é um projeto que visa criar a página de login do instagram.
 
-Este é um projeto desenvolvido durante o Bootcamp React Web Developer da **[Digital Innovation One](https://web.digitalinnovation.one/)**. Nele foi abordado o conceito sobre CSS Flexbox e responsividade, nas quais serão utilizado o CSS junto ao JavaScript para estilização e posicionamento.
+Este pequeno projeto foi desenvolvido durante o Bootcamp React Web Developer da **[Digital Innovation One](https://web.digitalinnovation.one/)**. Nele foi abordado o conceito sobre CSS Flexbox e responsividade, nas quais serão utilizado o CSS junto ao JavaScript para estilização e posicionamento. Adicionei responsividade aos botões do Instagram para as respectivas plataformas de download e na de login redirecionando para o meu Github.
 
 ---
 
